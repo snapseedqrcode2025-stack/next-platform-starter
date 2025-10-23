@@ -20,11 +20,14 @@ export default function Page() {
 
         <p className="mb-6 text-base">
           <strong>Website:</strong>{' '}
-          <Link href="https://www.snap-seed-qr-codes.com/">
-            <a className="text-indigo-600 hover:underline" target="_blank" rel="noopener noreferrer">
-              https://www.snap-seed-qr-codes.com/
-            </a>
-          </Link>
+          <a
+            href="https://www.snap-seed-qr-codes.com/"
+            className="text-indigo-600 hover:underline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://www.snap-seed-qr-codes.com/
+          </a>
         </p>
       </section>
 
@@ -141,9 +144,14 @@ export default function Page() {
           <p>
             Snapseed and its innovative QR Code feature redefine mobile photo editing, offering both creativity and consistency.
             To explore Snapseed QR Code styles, visit{' '}
-            <Link href="https://www.snap-seed-qr-codes.com/">
-              <a className="text-indigo-600 hover:underline" target="_blank" rel="noopener noreferrer">Snap-Seed-QR-Codes.com</a>
-            </Link>{' '}
+            <a
+              href="https://www.snap-seed-qr-codes.com/"
+              className="text-indigo-600 hover:underline"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Snap-Seed-QR-Codes.com
+            </a>{' '}
             and start transforming your photos today.
           </p>
         </footer>
