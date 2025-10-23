@@ -31,7 +31,7 @@ export default function Page() {
         </p>
          <Image
           className="dark:invert"
-          src="/2.jpg"
+          src="/images/2.jpg"
           alt="Snapseed QR Codes"
           width={750}
           height={700}
