@@ -19,7 +19,7 @@ export default function Page() {
         </p>
 
         <p className="mb-6 text-base text-white">
-          <strong>Website:</strong>{' '}
+          <strong>Website:tesst</strong>{' '}
           <a
             href="https://www.snap-seed-qr-codes.com/"
             className="text-blue-300 hover:underline"
