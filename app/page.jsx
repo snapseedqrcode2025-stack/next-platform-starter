@@ -29,14 +29,14 @@ export default function Page() {
             https://www.snap-seed-qr-codes.com/
           </a>
         </p>
-         <Image
+         {/* <Image
           className="dark:invert"
           src="/images/2.jpg"
           alt="Snapseed QR Codes"
           width={750}
           height={700}
           priority
-        /> 
+        />  */}
       </section>
 
       <section>
